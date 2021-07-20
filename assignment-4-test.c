@@ -3,8 +3,6 @@
  *
  * description: test suite for CS 5600 / 7600 file system
  *
- * CS 5600, Computer Systems, Northeastern CCIS
- * Philip Gust, March 2021
  */
 
 #include <stdlib.h>
