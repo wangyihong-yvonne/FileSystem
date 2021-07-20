@@ -1,2 +1,2 @@
-# assignment-4-pgust
+# assignment-4
 Instructor's implementation of assignment 4
